@@ -1,7 +1,7 @@
-🐦 Flappy Bird Game
+## 🐦 Flappy Bird Game
 A fun and addictive Flappy Bird game built using Java and Swing. Navigate the bird through an endless series of pipes and aim for the highest score! 🎮
 
-✨ Features
+## ✨ Features
 
 🕹️ Endless Gameplay: Continuously generated pipes provide an endless challenge. The longer you survive, the higher your score!
 🎯 Gravity and Collision Detection: Realistic gravity pulls the bird down, and accurate collision detection makes avoiding obstacles challenging.
@@ -11,11 +11,16 @@ A fun and addictive Flappy Bird game built using Java and Swing. Navigate the bi
 ⏫ Increasing Difficulty: As you progress, the speed of the pipes gradually increases, challenging your reflexes and timing.
 🎶 Sound Effects (Optional): Enhance the experience with jump sounds and game-over effects (can be added if needed).
 
-Screenshots 
+## Screenshots 
+
 <img width="582" height="1039" alt="image" src="https://github.com/user-attachments/assets/8a4cdf19-032d-4fb1-9320-11e6d8449f87" />
+
+
 <img width="605" height="1026" alt="image" src="https://github.com/user-attachments/assets/8255573c-2351-4a0d-9541-e24d2e3d73fe" />
 
-🎮 How to Play
+
+
+## 🎮 How to Play
 
 Press the Space Bar ⬆️ to make the bird jump. The longer you press, the higher the bird goes.
 Avoid the Pipes 🚧: Navigate through the gaps between the pipes. Colliding with them ends the game.
