@@ -11,6 +11,9 @@ A fun and addictive Flappy Bird game built using Java and Swing. Navigate the bi
 ⏫ Increasing Difficulty: As you progress, the speed of the pipes gradually increases, challenging your reflexes and timing.
 🎶 Sound Effects (Optional): Enhance the experience with jump sounds and game-over effects (can be added if needed).
 
+Screenshots 
+<img width="582" height="1039" alt="image" src="https://github.com/user-attachments/assets/8a4cdf19-032d-4fb1-9320-11e6d8449f87" />
+<img width="605" height="1026" alt="image" src="https://github.com/user-attachments/assets/8255573c-2351-4a0d-9541-e24d2e3d73fe" />
 
 🎮 How to Play
 
